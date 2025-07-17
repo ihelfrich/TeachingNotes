@@ -7,20 +7,28 @@ This repository contains comprehensive, interactive teaching materials for behav
 ### Contents
 
 #### 01_comprehensive_behavioral_economics.ipynb
-A comprehensive introduction to behavioral economics covering:
+A radically enhanced comprehensive behavioral economics notebook covering 12 major topics:
 
-- **Prospect Theory**: Mathematical formulation, value function, probability weighting
-- **Loss Aversion**: Endowment effect, reference dependence, applications  
-- **Mental Accounting**: Fungibility violations, budgeting behaviors
-- **Anchoring & Adjustment**: Heuristics and insufficient adjustment
-- **Framing Effects**: Gain/loss frames and decision contexts
+1. **Foundations: Prospect Theory and the Value Function** - Mathematical formulation, empirical evidence, applications
+2. **Loss Aversion: Why Losses Loom Larger Than Gains** - Endowment effect, reference dependence, WTA/WTP gaps
+3. **Probability Weighting: How We Distort Uncertainty** - Overweighting small probabilities, certainty effect
+4. **Mental Accounting: The Psychology of Money** - Fungibility violations, budgeting behaviors, sunk costs
+5. **Anchoring and Adjustment: The Power of First Impressions** - Heuristics, insufficient adjustment, applications
+6. **Framing Effects: How Context Shapes Decisions** - Gain/loss frames, decision contexts, Asian Disease Problem
+7. **Time Preferences: Present Bias and Hyperbolic Discounting** - Exponential vs. hyperbolic models, self-control
+8. **Social Preferences: Fairness, Reciprocity, and Altruism** - Ultimatum games, trust games, public goods
+9. **Nudges and Choice Architecture: Designing Better Decisions** - Default options, choice overload, libertarian paternalism
+10. **Market Anomalies: When Behavioral Biases Meet Finance** - Disposition effect, momentum, value premium
+11. **Neuroeconomics: The Brain on Economics** - Neural correlates, dual-process theory, brain imaging studies
+12. **Policy Applications: Behavioral Insights in Government** - Nudge units, tax compliance, retirement savings
 
 Each section includes:
-- Intuitive explanations with real-world examples
-- Mathematical formalization using LaTeX
-- Interactive demonstrations with parameter adjustment widgets
-- Agent-based simulations showing emergent behaviors
-- Connections to recent research and applications
+- Extensive research citations from leading behavioral economists (Kahneman, Tversky, Thaler, Ariely, Camerer, Fehr, Laibson, DellaVigna, Mullainathan, Shafir)
+- Mathematical formalization using LaTeX with proper notation
+- Advanced interactive demonstrations with parameter adjustment widgets
+- Agent-based simulations showing emergent market behaviors
+- Real-world policy applications and empirical findings
+- Connections to recent research and experimental evidence
 
 ### Features
 
